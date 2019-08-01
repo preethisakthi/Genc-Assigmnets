@@ -1,0 +1,19 @@
+.container{
+	margin-top:100px;
+	font-weight:bold;
+}
+.form{
+	width:100%;
+	border-radius:10px;
+	height:45px;
+}
+.register{
+	background-color:#4CAF50;
+	color:white;
+	text-align: center;
+	width:180px;
+	height:30px;
+}
+hr{
+	color:black;
+}
